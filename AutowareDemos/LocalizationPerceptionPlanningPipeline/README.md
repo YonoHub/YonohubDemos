@@ -29,6 +29,7 @@ Purchase the following blocks from YonoStore (Free):
 - [Waypoints Loader](https://store.yonohub.com/product/autoware-ai-waypoints-loader/)
 - [Waypoints Replanner](https://store.yonohub.com/product/autoware-ai-waypoint-replanner/)
 - [Waypoints Visualizer](https://store.yonohub.com/product/autoware-ai-waypoint-visualizer/)
+- [Rviz](https://store.yonohub.com/product/rviz/)
 
 
 # Running Pipeline
