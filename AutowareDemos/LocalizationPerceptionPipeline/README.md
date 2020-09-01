@@ -20,6 +20,7 @@ Purchase the following blocks from YonoStore (Free):
 - [IMM UKF PDA Tracker](https://store.yonohub.com/product/autoware-ai-imm-ukf-pda-tracker/)
 - [Euclidean Clustering](https://store.yonohub.com/product/autoware-ai-euclidean-clustering/)
 - [Demo Vector Map Loader](https://store.yonohub.com/product/autoware-ai-demo-vector-map-loader/)
+- [Rviz](https://store.yonohub.com/product/rviz/)
 
 
 # Running Pipeline
