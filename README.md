@@ -10,4 +10,4 @@ Get $25 free credits when you sign up now. For researchers and labs, contact us 
 
 This repository gives you access to the latest demos from Yonohub that we release regularly with our articles on [Medium](https://medium.com/yonohub) and [LinkedIn](https://www.linkedin.com/showcase/yonohub/)
 
-If you liked this article, please consider following us on Twitter at @yonohub, email us directly, or find us on LinkedIn. we’d love to hear from you if we can help you or your team with how to use YonoHub.
+If you liked our demos, please consider following us on [Twitter](https://twitter.com/YonoHub), email us on advocates@yonohub.com, or find us on [LinkedIn](https://www.linkedin.com/showcase/yonohub/). we’d love to hear from you if we can help you or your team with how to use YonoHub.
