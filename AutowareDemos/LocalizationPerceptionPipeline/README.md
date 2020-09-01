@@ -8,7 +8,7 @@ cd pathto/localization_perception_autoware/
 sh DemoROSBagDownload.sh
 ```
 **Step 2:** 
-Purchase the following blocks from YonoStore:
+Purchase the following blocks from YonoStore (Free):
 - [ROS Bag Player](https://store.yonohub.com/product/autoware-ai-rosbag/)
 - [Initial Pose](https://store.yonohub.com/product/autoware-ai-initial-pose/)
 - [NDT Matching](https://store.yonohub.com/product/autoware-ai-ndt-matching/)
@@ -25,3 +25,6 @@ Purchase the following blocks from YonoStore:
 # Running Pipeline
 
 Open Localization_Perception_Autoware.arc using YonoArc and click on "Express Launch"
+
+# Documentation
+For more information about building the pipeline from scratch, you can view our article on [Medium](https://medium.com/yonohub/autoware-o-yonohub-part-2-30c7dac5ac19) or on [LinkedIn](https://www.linkedin.com/pulse/autoware-yonohub-part-2-ahmed-radwan/)
