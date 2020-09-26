@@ -1,0 +1,56 @@
+{
+    "SeeDocsAt": "https://github.com/Microsoft/AirSim/blob/master/docs/settings.md",
+    "SettingsVersion": 1.2,
+    "SimMode": "Car",
+    "ViewMode": "NoDisplay",
+    "ClockSpeed": 1,
+    "CameraDefaults": {
+        "CaptureSettings": [
+            {
+                "ImageType": 0,
+                "Width": 320,
+                "Height": 240
+            }
+        ]
+    },
+    "SegmentationSettings": {
+        "InitMethod": "",
+        "MeshNamingMethod": "",
+        "OverrideExisting": false
+    },
+    "Vehicles": {
+        "drone_1": {
+            "VehicleType": "PhysXCar",
+            "DefaultVehicleState": "Armed",
+            "EnableCollisionPassthrogh": false,
+            "EnableCollisions": true,
+            "AllowAPIAlways": true,
+            "RC": {
+                "RemoteControlID": 0,
+                "AllowAPIWhenDisconnected": false
+            },
+            "Sensors": {
+                "Imu": {
+                    "SensorType": 2,
+                    "Enabled": true
+                },
+                "LidarCustom": {
+                    "SensorType": 6,
+                    "Enabled": true,
+                    "NumberOfChannels": 32,
+                    "PointsPerSecond": 100000,
+                    "X": 0,
+                    "Y": 0,
+                    "Z": -1,
+                    "DrawDebugPoints": false
+                }
+            },
+            "X": 0,
+            "Y": 0,
+            "Z": 0,
+            "Pitch": 0,
+            "Roll": 0,
+            "Yaw": 0
+        }
+    }
+}
