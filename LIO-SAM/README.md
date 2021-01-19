@@ -14,4 +14,4 @@ Purchase the following blocks from YonoStore (Free):
 
 # Running Pipeline
 
-Open LIO-SAM.arc using YonoArc and click on "Express Launch"
+Open ``` LIO-SAM.arc ``` using YonoArc and click on "Express Launch"
