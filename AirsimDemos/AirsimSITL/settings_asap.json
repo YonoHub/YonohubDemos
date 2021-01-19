@@ -3,9 +3,9 @@
     "LogMessagesVisible": true,
     "SimMode": "Multirotor",
     "OriginGeopoint": {
-      "Latitude": -35.363261,
-      "Longitude": 150.165230,
-      "Altitude": 583
+        "Latitude": -35.363261,
+        "Longitude": 149.168801,
+        "Altitude": 583
     },
     "CameraDefaults": {
         "CaptureSettings": [
@@ -31,13 +31,13 @@
         "OverrideExisting": false
     },
     "Vehicles": {
-      "drone_1": {
-        "VehicleType": "ArduCopter",
-        "UseSerial": false,
-        "LocalHostIp": "127.0.0.1",
-        "UdpIp": "127.0.0.1",
-        "UdpPort": 9003,
-        "ControlPort": 9002
-      }
+        "drone_1": {
+            "VehicleType": "ArduCopter",
+            "UseSerial": false,
+            "LocalHostIp": "0.0.0.0",
+            "UdpIp": "100.233.88.8",
+            "UdpPort": 9003,
+            "ControlPort": 9002
+        }
     }
-  }
+}
