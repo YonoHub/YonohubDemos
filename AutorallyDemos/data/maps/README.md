@@ -18,12 +18,3 @@ These channels are currently all zero. They can be modified in order to include 
 
 ## gazebo_costmap_05_22_2016.npz
 Map of the gazebo simulation environment. Origin is the same as the spawn point for the car.
-
-## marietta_costmap_09_08_2018.npz 
-Map of the marietta track, located just south of Georgia Tech. Origin is on the side of the track closest to Marietta street, and is marked by the tops of two metal stakes buried in the ground.
-
-## marietta_costmap_12_06_2015.npz 
-Map of the marietta track, located just south of Georgia Tech. Origin is on the side of the track furthest to Marietta street. This map is now deprecated, as the origin marker has been lost and the track boundaries have been moved after construction clean-up. 
-
-## ccrf_costmap_09_29_2017.npz 
-Map of the track located at Georgia Tech's Cobb County Research Facility. Origin is on the in the pit lane by the car-port, and is marked by four metal stakes buried in the ground.
